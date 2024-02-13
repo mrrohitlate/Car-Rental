@@ -1,0 +1,86 @@
+<?xml version='1.0' encoding='utf-8'?>
+<project name="C:\xampp\htdocs\Car_Rental-PHP\Car_Rental-PHP.clpprj">
+ <settings>
+  <PM_URL><![CDATA[http://localhost/C:/xampp/htdocs/Car_Rental-PHP]]></PM_URL>
+  <PM_HOME_URL><![CDATA[http://localhost/C:/xampp/htdocs/Car_Rental-PHP]]></PM_HOME_URL>
+  <PM_LIBS><![CDATA[]]></PM_LIBS>
+  <PM_FTP_CONNECTION><![CDATA[]]></PM_FTP_CONNECTION>
+  <PM_FTP_DIR><![CDATA[]]></PM_FTP_DIR>
+  <PM_FTP_UPLOAD_ON_SAVE><![CDATA[INT:0]]></PM_FTP_UPLOAD_ON_SAVE>
+  <PM_LANGUAGE><![CDATA[]]></PM_LANGUAGE>
+ </settings>
+ <removed value=";"/>
+ <added value=""/>
+ <lastopfiles>
+  <lastactivefile name=""/>
+ </lastopfiles>
+ <todoblock>
+  <todofile name="C:\xampp\htdocs\Car_Rental-PHP\faq\js\jquery-2.1.1.js">
+   <todo name="TODO: Now that all calls to _data and _removeData have been replaced" pos="2;3742"/>
+  </todofile>
+  <todofile name="C:\xampp\htdocs\Car_Rental-PHP\faq\js\modernizr.js">
+   <todo name="TODO :: make the prefixes more granular" pos="5;55"/>
+   <todo name="TODO :: Add flag for hasownprop ? didn't last time" pos="5;224"/>
+   <todo name="TODO :: add testDOMProps" pos="5;344"/>
+   <todo name="todo: hypothetically we could be doing an array of tests and use a basic loop here." pos="5;941"/>
+  </todofile>
+ </todoblock>
+ <dbgurls/>
+ <filescache>
+  <file name="C:\xampp\htdocs\Car_Rental-PHP\faq\scss\style.scss" crc="1652799425007"/>
+  <file name="C:\xampp\htdocs\Car_Rental-PHP\faq\partials\_variables.scss" crc="1652799424937"/>
+  <file name="C:\xampp\htdocs\Car_Rental-PHP\faq\partials\_mixins.scss" crc="1652799424890"/>
+  <file name="C:\xampp\htdocs\Car_Rental-PHP\faq\partials\_layout.scss" crc="1652799424844"/>
+  <file name="C:\xampp\htdocs\Car_Rental-PHP\faq\js\modernizr.js" crc="1652799424784"/>
+  <file name="C:\xampp\htdocs\Car_Rental-PHP\faq\js\main.js" crc="1652799424718"/>
+  <file name="C:\xampp\htdocs\Car_Rental-PHP\faq\js\jquery.mobile.custom.min.js" crc="1652799424659"/>
+  <file name="C:\xampp\htdocs\Car_Rental-PHP\faq\js\jquery-2.1.1.js" crc="1652799424590"/>
+  <file name="C:\xampp\htdocs\Car_Rental-PHP\faq\css\style.css" crc="1652799424434"/>
+  <file name="C:\xampp\htdocs\Car_Rental-PHP\faq\css\reset.css" crc="1652799424377"/>
+  <file name="C:\xampp\htdocs\Car_Rental-PHP\faq\assets\w3css\w3.css" crc="1652799424307"/>
+  <file name="C:\xampp\htdocs\Car_Rental-PHP\faq\assets\js\theme.js" crc="1652799424227"/>
+  <file name="C:\xampp\htdocs\Car_Rental-PHP\faq\assets\js\templatemo_custom.js" crc="1652799424179"/>
+  <file name="C:\xampp\htdocs\Car_Rental-PHP\faq\assets\js\main.js" crc="1652799424130"/>
+  <file name="C:\xampp\htdocs\Car_Rental-PHP\faq\assets\js\jquery.min.js" crc="1652799424059"/>
+  <file name="C:\xampp\htdocs\Car_Rental-PHP\faq\assets\js\jquery.lightbox.js" crc="1652799423954"/>
+  <file name="C:\xampp\htdocs\Car_Rental-PHP\faq\assets\js\jquery.easing.min.js" crc="1652799423916"/>
+  <file name="C:\xampp\htdocs\Car_Rental-PHP\faq\assets\js\jquery-1.10.2.min.js" crc="1652799423872"/>
+  <file name="C:\xampp\htdocs\Car_Rental-PHP\faq\assets\js\custom.js" crc="1652799423776"/>
+  <file name="C:\xampp\htdocs\Car_Rental-PHP\faq\assets\js\bootstrap.min.js" crc="1652799423734"/>
+  <file name="C:\xampp\htdocs\Car_Rental-PHP\faq\assets\fonts\font-awesome.min.css" crc="1652799423266"/>
+  <file name="C:\xampp\htdocs\Car_Rental-PHP\faq\assets\css\viewshopdetails.css" crc="1652799423207"/>
+  <file name="C:\xampp\htdocs\Car_Rental-PHP\faq\assets\css\user.css" crc="1652799423168"/>
+  <file name="C:\xampp\htdocs\Car_Rental-PHP\faq\assets\css\customerlogin.css" crc="1652799423117"/>
+  <file name="C:\xampp\htdocs\Car_Rental-PHP\faq\assets\css\clientsignup.css" crc="1652799423062"/>
+  <file name="C:\xampp\htdocs\Car_Rental-PHP\faq\assets\css\clientpage.css" crc="1652799423024"/>
+  <file name="C:\xampp\htdocs\Car_Rental-PHP\faq\assets\css\clientlogin.css" crc="1652799422979"/>
+  <file name="C:\xampp\htdocs\Car_Rental-PHP\faq\assets\css\bookingconfirm.css" crc="1652799422933"/>
+  <file name="C:\xampp\htdocs\Car_Rental-PHP\faq\assets\bootstrap\js\bootstrap.min.js" crc="1652799422870"/>
+  <file name="C:\xampp\htdocs\Car_Rental-PHP\faq\assets\bootstrap\css\bootstrap.min.css" crc="1652799422379"/>
+  <file name="C:\xampp\htdocs\Car_Rental-PHP\faq\assets\ajs\angular.min.js" crc="1652799422293"/>
+  <file name="C:\xampp\htdocs\Car_Rental-PHP\faq\assets\ajs\angular-route.js" crc="1652799422179"/>
+  <file name="C:\xampp\htdocs\Car_Rental-PHP\faq\index.php" crc="1658313881980"/>
+  <file name="C:\xampp\htdocs\Car_Rental-PHP\assets\w3css\w3.css" crc="1652799421941"/>
+  <file name="C:\xampp\htdocs\Car_Rental-PHP\assets\js\theme.js" crc="1652799421876"/>
+  <file name="C:\xampp\htdocs\Car_Rental-PHP\assets\js\templatemo_custom.js" crc="1652799421819"/>
+  <file name="C:\xampp\htdocs\Car_Rental-PHP\assets\js\main.js" crc="1652799421764"/>
+  <file name="C:\xampp\htdocs\Car_Rental-PHP\assets\js\jquery.min.js" crc="1652799421697"/>
+  <file name="C:\xampp\htdocs\Car_Rental-PHP\assets\js\jquery.lightbox.js" crc="1652799421559"/>
+  <file name="C:\xampp\htdocs\Car_Rental-PHP\assets\js\jquery.easing.min.js" crc="1652799421490"/>
+  <file name="C:\xampp\htdocs\Car_Rental-PHP\assets\js\jquery-1.10.2.min.js" crc="1652799421416"/>
+  <file name="C:\xampp\htdocs\Car_Rental-PHP\assets\js\custom.js" crc="1652799421295"/>
+  <file name="C:\xampp\htdocs\Car_Rental-PHP\assets\js\bootstrap.min.js" crc="1652799421243"/>
+  <file name="C:\xampp\htdocs\Car_Rental-PHP\assets\fonts\font-awesome.min.css" crc="1652799419881"/>
+  <file name="C:\xampp\htdocs\Car_Rental-PHP\assets\css\viewshopdetails.css" crc="1652799419819"/>
+  <file name="C:\xampp\htdocs\Car_Rental-PHP\assets\css\user.css" crc="1652799419771"/>
+  <file name="C:\xampp\htdocs\Car_Rental-PHP\assets\css\customerlogin.css" crc="1652799419717"/>
+  <file name="C:\xampp\htdocs\Car_Rental-PHP\assets\css\clientsignup.css" crc="1652799419660"/>
+  <file name="C:\xampp\htdocs\Car_Rental-PHP\assets\css\clientpage.css" crc="1652799419604"/>
+  <file name="C:\xampp\htdocs\Car_Rental-PHP\assets\css\clientlogin.css" crc="1652799419553"/>
+  <file name="C:\xampp\htdocs\Car_Rental-PHP\assets\css\bookingconfirm.css" crc="1652799419505"/>
+  <file name="C:\xampp\htdocs\Car_Rental-PHP\assets\bootstrap\js\bootstrap.min.js" crc="1652799419449"/>
+  <file name="C:\xampp\htdocs\Car_Rental-PHP\assets\bootstrap\css\bootstrap.min.css" crc="1652799419076"/>
+  <file name="C:\xampp\htdocs\Car_Rental-PHP\assets\ajs\angular.min.js" crc="1652799419008"/>
+  <file name="C:\xampp\htdocs\Car_Rental-PHP\assets\ajs\angular-route.js" crc="1652799418889"/>
+ </filescache>
+</project>
