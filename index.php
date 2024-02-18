@@ -15,8 +15,6 @@ $conn = Connect();
     <link rel="stylesheet" href="assets/fonts/font-awesome.min.css">
     <link rel="stylesheet" href="assets/css/user.css">
     <link rel="stylesheet" href="assets/w3css/w3.css">
-    <!-- Toastr CSS -->
-    <link href="assets/toaster/toastr.css" rel="stylesheet">
 
     <link href="http://fonts.googleapis.com/css?family=Open+Sans:300,400,700,400italic,700italic" rel="stylesheet" type="text/css">
     <link href="http://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css">
@@ -235,9 +233,6 @@ $conn = Connect();
     <script src="assets/js/jquery.easing.min.js"></script>
     <!-- Custom Theme JavaScript -->
     <script src="assets/js/theme.js"></script>
-    <!-- Toastr JS -->
-    <script src="assets/toaster/toastr.js"></script>
-
 </body>
 
 </html>

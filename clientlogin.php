@@ -19,8 +19,6 @@ if(isset($_SESSION['login_client'])){
     <script type="text/javascript" src="assets/js/jquery.min.js"></script>
     <script type="text/javascript" src="assets/js/bootstrap.min.js"></script>
     <link rel="stylesheet" href="assets/css/clientlogin.css">
-        <!-- Toastr CSS -->
-    <link href="assets/toaster/toastr.css" rel="stylesheet">
 
 </head>
     <body>
@@ -182,6 +180,4 @@ if(isset($_SESSION['login_client'])){
             </div>
         </div>
     </footer>
- <!-- Toastr JS -->
-<script src="assets/toaster/toastr.js"></script>
     </html>
